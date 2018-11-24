@@ -18,9 +18,14 @@ A specific font, **Coptonew**, has been developed to properly render the CMCL en
 
 For the Unicode encoded version **Antinoou** font is used, embedded to the main index page. It is a standard font designed for coptic that makes no use of the private Unicode area. More information about Antinoou font and its keyboard layout can be found [here](http://www.evertype.com/fonts/coptic/).
 
-## Copyright & License
-Copyright: Julian Bogdani <julian.bogdani@uniroma1.it> and [PATHs](http://paths.uniroma1.it) 2016.
+# How to cite
+This software is archived in Zenodo. Please cite it by referring the DOI: 10.5281/zenodo.1495599
 
-License: [MIT](https://opensource.org/licenses/MIT).
+[![DOI](https://zenodo.org/badge/76262299.svg)](https://zenodo.org/badge/latestdoi/76262299)
 
-Version 1.
+
+# License
+MIT License. See [LICENSE](LICENSE) file
+
+# Copyright
+Copyright (c) 2016 Julian Bogdani, PAThs
