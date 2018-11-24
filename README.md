@@ -2,7 +2,7 @@
 A vanilla **javascript**, simple to use bidirectional convertet from [Orlandi's CMCL](http://cmcl.it) encoding system to strict standard Unicode and the other way round.
 
 ## Working demo
-A working demo can be found on the PAThs website: [http://paths.uniroma1.it/cmcl2unicode/index.html](http://paths.uniroma1.it/cmcl2unicode/index.html)
+A working demo can be found at: [https://paths-erc.github.io/cmcl2unicode/](https://paths-erc.github.io/cmcl2unicode/)
 
 ## How to use
 Just type or paste in one of the two available textareas and the text will automatically be converted to the other format. For instance in you type/paste text in the CMCL textarea, the unicode version of the typed/pasted text will be automatically available.
