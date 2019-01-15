@@ -1,5 +1,5 @@
 # CMCL to Unicode bidirectional converter
-A vanilla **javascript**, simple to use bidirectional convertet from [Orlandi's CMCL](http://cmcl.it) encoding system to strict standard Unicode and the other way round.
+A vanilla **javascript**, simple to use, bidirectional converter from [Tito Orlandi's CMCL](http://cmcl.it) encoding system to strict standard Unicode and the other way round.
 
 ## Working demo
 A working demo can be found at: [https://paths-erc.github.io/cmcl2unicode/](https://paths-erc.github.io/cmcl2unicode/)
